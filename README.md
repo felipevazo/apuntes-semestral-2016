@@ -1,3 +1,6 @@
-# apuntes-semestral-2016
-
-contador para los ciclos de tiempo del informe
+Falta:
+usar gettersetter para cambiar datos de entrada
+guardar datos en .txt
+explicar uso de imagenes
+diseño reproduccion
+explicitar fuentes de uso de bibliotecas/informacion(sleep)
